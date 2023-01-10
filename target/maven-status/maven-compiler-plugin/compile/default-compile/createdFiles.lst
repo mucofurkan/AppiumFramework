@@ -1,0 +1,5 @@
+org\mfk\utils\AndroidBaseTest.class
+org\mfk\utils\IOSActions.class
+org\mfk\PageObjectIOS\HomePage.class
+org\mfk\utils\IOSBaseTest.class
+org\mfk\PageObjectIOS\AlertViews.class
